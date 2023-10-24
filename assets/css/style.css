@@ -30,7 +30,7 @@ body {
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
-}
+} /* this is navigation with links to relevant section*/
 
 .header article  ul {
     list-style-type: none;
