@@ -20,8 +20,9 @@ N/A
 
 ## Usage
 
-Webpage should be used as demo of services that Horiseon is providing for their customers, like search engine optimalization, online reputation management and social media marketing. Please see screenshots (assets/images/screenshot2.png) and (assets/images/screenshot1.png)
-P
+Webpage should be used as demo of services that Horiseon is providing for their customers, like search engine optimalization, online reputation management and social media marketing. Please see screenshots 
+![screenshot](assets/images/Webpage%20img.png)
+
 
 ## Credits
 
