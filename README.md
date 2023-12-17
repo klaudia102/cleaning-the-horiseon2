@@ -3,16 +3,10 @@
 
 ## Description
 
-This project has been made for marketing agency, that wanted to have more accesible webside.
-Due to changes made, more customers will be able to reach webside and increase number of viewers.
-Viewers on mobiles devices will also benefit from better experience.
+This project was made for a marketing agency, that wanted to have a more accessible website.
+Due to changes made, more customers will be able to reach the website and increase the number of viewers.
+Viewers on mobile devices will also benefit from a better experience.
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
 
 ## Installation
 
@@ -20,7 +14,7 @@ N/A
 
 ## Usage
 
-Webpage should be used as demo of services that Horiseon is providing for their customers, like search engine optimalization, online reputation management and social media marketing. Please see screenshots 
+The page should be used as a demo of services that Horiseon is providing for their customers, like search engine optimization, online reputation management, and social media marketing. Please see screenshots 
 ![screenshot](assets/images/Webpage%20img.png)
 
 
